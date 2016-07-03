@@ -6,7 +6,8 @@
 	},
 	"dependencies": {
 		"underscore": "1.8.3",
-		"mongodb" 	: "2.1.18"
+		"mongodb" 	: "2.1.18",
+		"express"		: "4.14.0"
 	},
 	"devDependencies": {
 		"mocha"		: "2.5.3",
